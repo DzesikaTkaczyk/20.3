@@ -1,0 +1,25 @@
+{
+  "name": "20.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.9",
+    "webpack": "^4.41.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.configNamChange.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzesikaTkaczyk/20.3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzesikaTkaczyk/20.3/issues"
+  },
+  "homepage": "https://github.com/DzesikaTkaczyk/20.3#readme"
+}
